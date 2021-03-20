@@ -1,0 +1,74 @@
+Topics
+What’s JavaScript?.
+What’s ECMAScript?.
+JavaScript Engines.
+JavaScript runtime.
+JavaScript Paradigm.
+JavaScript - Main features.
+JavaScript Implementations.
+Tasks
+
+What’s JavaScript?.
+
+JavaScript is an interpreted and high-level programming language, it’s a programming language that conforms to the ECMAScript specification. often just-in-time compiled, and multi-paradigm. It has curly-bracket syntax, dynamic typing, prototype-based object-orientation, and first-class functions.
+
+Alongside HTML and CSS, JavaScript is one of the core technologies of the World Wide Web. JavaScript enables interactive web pages and is an essential part of web applications. The vast majority of websites use it for client-side page behavior, and all major web browsers have a dedicated JavaScript engine to execute it.
+
+Designed by Netscape Communications and Brendan Eich initially in 1995, actually other key contributors update javascripts on the ECMAScript specification.
+
+What’s ECMASCRIPT?.
+
+Provides the rules, details, and guidelines that a scripting language must follow in order to be considered ECMAScript compliant.
+
+
+JavaScript engine.
+
+A program or interpreter that understands and executes JavaScript code. Synonyms: JavaScript interpreter, JavaScript implementation.
+
+As examples we have:
+
+V8 in Chrome
+SpiderMonkey in Firefox
+and, Chakra in Edge
+
+
+JavaScript runtime.
+
+Environment in which JavaScript code is executed, being interpreted by a JavaScript engine. The runtime provides the objects that JavaScript can operate and work with. Synonym: Host environment.
+
+The code passes through a Javascript engine (or interpreter),
+and once it has been analyzed and understood,
+an entity or system performs the interpreted actions.
+
+On the client side, the JavaScript runtime would be the web browser
+On the server side, the JavaScript runtime is Node.js
+
+JavaScript Paradigm.
+
+Event-driven
+Is a programming paradigm in which the flow of the program is determined by events such as user actions (mouse clicks, key presses), sensor outputs, or message passing from other programs or threads. Event-driven programming is the dominant paradigm used in graphical user interfaces and other applications that are centered on performing certain actions in response to user input.
+
+Functional
+Is a programming paradigm where programs are constructed by applying and composing functions. It is a declarative programming paradigm in which function definitions are trees of expressions that map values to other values, rather than a sequence of imperative statements which update the running state of the program.
+
+Imperative
+Is a programming paradigm that uses statements that change a program's state. In much the same way that the imperative mood in natural languages expresses commands, an imperative program consists of commands for the computer to perform. Imperative programming focuses on describing how a program operates.
+
+JavaScript Implementations.
+
+Websites
+Web Applications
+Desktop App
+Presentations
+Server Applications
+Web Servers
+Games
+Art
+Smartwatch Apps
+Mobile apps
+AR/VR
+IoT
+API integrations
+
+JavaScript Frameworks.
+
