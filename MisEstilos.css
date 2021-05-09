@@ -1,0 +1,17 @@
+.Titulo1{
+    color: aqua(255, 0, 0);
+    }
+    
+    ul{
+        list-style: none;
+        text-align: left;
+    }
+    a{
+        color: blue !important;
+        text-decoration: none;
+    }
+
+    a:hover{
+        color: rgb(40, 150, 50) !important; 
+        text-decoration: none !important;
+       }
