@@ -11,9 +11,9 @@ JavaScript es un lenguaje de programación o de secuencias de comandos que te pe
 [01_What_is_ECMAScript](Introduction/01_What_is_ECMAScript.html)</br>
 [02_javaScript_Engines](Introduction/02_javaScript_Engines.html)</br>
 [03_javaScript_runtime](Introduction/03_JavaScript_runtime.html)</br>
-[04_javaScript_Paradigm](Introduction/04_Paradigm.html)</br>
-[05_javaScript_Main_feature](Introduction/05_javaScript__Main_feature.html)</br>
-[06_javaScript_Implementations](Introduction/06_javaScript_Implementations.html)</br>
+[04_javaScript_Paradigm](Introduction/04_JavaScript_Paradigm.html)</br>
+[05_javaScript_Main_feature](Introduction/05_JavaScript__Main_features.html)</br>
+[06_javaScript_Implementations](Introduction/06_JavaScript_Implementations.html)</br>
 
 
 ***Wilson Mosquera Lemos***
